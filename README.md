@@ -13,4 +13,5 @@ TEAM MEMBERS:
 3. Open the folder ISBN_Scanner v1.01.
 4. Run scanner_gui.exe.
 
-![Alt Text](path/to/image "Optional Title")
+![Alt Text](![Untitled Diagram drawio(1)](https://github.com/user-attachments/assets/8e41ca24-98d3-487b-9688-18a85fa50327)
+ "Optional Title")
