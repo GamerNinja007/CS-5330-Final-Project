@@ -12,3 +12,5 @@ TEAM MEMBERS:
 2. Extract the folder using WinRAR, 7Zip or other software.
 3. Open the folder ISBN_Scanner v1.01.
 4. Run scanner_gui.exe.
+
+![Alt Text](path/to/image "Optional Title")
