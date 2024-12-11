@@ -12,6 +12,5 @@ TEAM MEMBERS:
 2. Extract the folder using WinRAR, 7Zip or other software.
 3. Open the folder ISBN_Scanner v1.01.
 4. Run scanner_gui.exe.
+![Untitled Diagram drawio(3)](https://github.com/user-attachments/assets/d98bf26d-c4d3-41d5-92ff-ab28498f34e4)
 
-![Alt Text](![Untitled Diagram drawio(1)](https://github.com/user-attachments/assets/8e41ca24-98d3-487b-9688-18a85fa50327)
- "Optional Title")
