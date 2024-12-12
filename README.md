@@ -1,7 +1,7 @@
 # CS-5330-Final-Project
 TEAM MEMBERS: 
-1. ATIQ SOHAIL MOHAMMED
-2. SRICHARAN R IYENGAR
+1. ATIQ SOHAIL MOHAMMED - mohammed.at@northeastern.edu
+2. SRICHARAN R IYENGAR - iyengar.sr@northeastern.edu
 
 ## REQUIREMENTS:
 1. Windows 10/11
